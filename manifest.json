@@ -1,0 +1,26 @@
+{
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.23/MicrosoftTeams.schema.json",
+    "version": "1.0.0",
+    "manifestVersion": "1.23",
+    "id": "9fd935c1-c719-4301-be33-11c3b598508d",
+    "name": {
+        "short": "Teams SharePoint Integration"
+    },
+    "developer": {
+        "name": "Auckland Eye",
+        "websiteUrl": "https://www.aucklandeye.co.nz/",
+        "privacyUrl": "https://www.aucklandeye.co.nz/home/patient-privacy-statement/",
+        "termsOfUseUrl": "https://www.aucklandeye.co.nz/terms-of-service/"
+    },
+    "description": {},
+    "short": {},
+    "icons": {
+        "outline": "outline.png",
+        "color": "color.png"
+    },
+    "accentColor": "#ffffff",
+    "validDomains": [],
+    "webApplicationInfo": {
+        "id": "dbe3506a-0496-460d-a23b-7a7bbbb94791"
+    }
+}
